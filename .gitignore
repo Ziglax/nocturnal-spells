@@ -12,3 +12,7 @@ __pycache__/
 # OS
 Thumbs.db
 .DS_Store
+
+# Guild-internal data pipeline (kept out of the public repo)
+tools/parse_bank.py
+tools/pools_summary.json

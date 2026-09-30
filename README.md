@@ -132,10 +132,8 @@ tracking state itself; the code needs no edits.
    state / Import state moves it between installs.
 
 The spell pools in `data/spells.js` target Project Quarm. If your server's
-pools differ, regenerate the file with `tools/parse_bank.py` from your own
-bank export (the worksheet must be named Spell bank; CLAUDE.md, section
-"Regenerate the spell data", documents the column layout) and check the
-`validation` lines it embeds; [pqdi.cc](https://www.pqdi.cc) is the
+pools differ, rebuild the file to the same shape (CLAUDE.md, section "Data
+pipeline", documents the schema); [pqdi.cc](https://www.pqdi.cc) is the
 reference for pool contents and odds.
 
 ## Running locally
