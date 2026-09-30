@@ -4,6 +4,8 @@ PoP spell turn-in tracker for an EverQuest guild quartermaster on
 **Project Quarm**. The guild name is a setting (`guildName` in
 `config.json`) and brands the page title and header.
 
+![Spell Pools tab: one card per class with its PoK librarian and turn-in odds](docs/screenshot.jpg)
+
 ## The items
 
 - **Spectral Parchment** → random level 63-64 spell
@@ -107,3 +109,7 @@ missing curl extension, or the host's security module blocking the request
 In local mode the tracking state lives in `localStorage`; online it is
 shared through the API. Use **Export state / Import state** to back it up
 or move it around.
+
+## License
+
+[MIT](LICENSE).
