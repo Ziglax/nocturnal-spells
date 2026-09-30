@@ -1,0 +1,14 @@
+# Secrets (copy api/secrets.sample.php to api/secrets.php on the server)
+api/secrets.php
+
+# Runtime shared state
+storage/state.json
+storage/*.lock
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store

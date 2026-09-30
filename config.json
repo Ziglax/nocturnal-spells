@@ -1,0 +1,9 @@
+{
+  "guildName": "Nocturnal",
+  "guildId": "YOUR_DISCORD_SERVER_ID",
+  "sessionEpoch": 1,
+  "roles": {
+    "officer": ["OFFICER_ROLE_ID"],
+    "raider": ["RAIDER_ROLE_ID"]
+  }
+}

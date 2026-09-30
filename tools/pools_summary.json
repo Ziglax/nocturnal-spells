@@ -1,0 +1,486 @@
+{
+ "Cavalier Waut": {
+  "class": "Paladin",
+  "pools": {
+   "Ethereal Parchment": {
+    "denom": 6,
+    "spells": [
+     "Greater Immobilize",
+     "Touch of Nife",
+     "Crusader`s Touch",
+     "Deny Undead",
+     "Force of Akilae",
+     "Ward of Nife"
+    ]
+   },
+   "Spectral Parchment": {
+    "denom": 5,
+    "spells": [
+     "Light of Nife",
+     "Pious Might",
+     "Aura of the Crusader",
+     "Quellious' Word of Serenity",
+     "Supernal Cleansing"
+    ]
+   },
+   "Glyphed Rune Word": {
+    "denom": 3,
+    "spells": [
+     "Brell's Stalwart Shield",
+     "Shackles of Tunare",
+     "Wave of Marr"
+    ]
+   }
+  }
+ },
+ "Channeler Olaemos": {
+  "class": "Wizard",
+  "pools": {
+   "Ethereal Parchment": {
+    "denom": 8,
+    "spells": [
+     "Greater Fetter",
+     "Elemental Barrier",
+     "Resistant Armor",
+     "Shield of the Arcane",
+     "Tears of Ro",
+     "Draught of Ro",
+     "Lure of Ro",
+     "Teleport"
+    ]
+   },
+   "Spectral Parchment": {
+    "denom": 8,
+    "spells": [
+     "Force Shield",
+     "Agnarr's Thunder",
+     "Draught of Thunder",
+     "Iceflame of E`ci",
+     "Draught of E`ci",
+     "Shield of Maelin",
+     "Tears of Arlyxir",
+     "Telekin"
+    ]
+   },
+   "Glyphed Rune Word": {
+    "denom": 4,
+    "spells": [
+     "Greater Decession",
+     "Shock of Magic",
+     "Strike of Solusek",
+     "Tears of Marr"
+    ]
+   }
+  }
+ },
+ "Elementalist Somat": {
+  "class": "Magician",
+  "pools": {
+   "Ethereal Parchment": {
+    "denom": 17,
+    "spells": [
+     "Shield of the Arcane",
+     "Belt of Magi'Kot",
+     "Blade of Walnan",
+     "Elemental Barrier",
+     "Flameshield of Ro",
+     "Summon Glowing Bauble",
+     "Summon Platinum Choker",
+     "Summon Runed Mantle",
+     "Summon Sapphire Bracelet",
+     "Summon Spiked Ring",
+     "Ward of Xegony",
+     "Burnout V",
+     "Fist of Ixiblat",
+     "Servant of Marr",
+     "Sun Storm",
+     "Talisman of Return",
+     "Xegony's Phantasmal Guard"
+    ]
+   },
+   "Spectral Parchment": {
+    "denom": 12,
+    "spells": [
+     "Destroy Summoned",
+     "Shield of Maelin",
+     "Black Steel",
+     "Blade of The Kedge",
+     "Child of Ro",
+     "Elemental Silence",
+     "Maelstrom of Ro",
+     "Malosinia",
+     "Summon Jewelry Bag",
+     "Girdle of Magi'Kot",
+     "Maelstrom of Thunder",
+     "Planar Renewal"
+    ]
+   },
+   "Glyphed Rune Word": {
+    "denom": 3,
+    "spells": [
+     "Call of the Arch Mage",
+     "Rathe's Son",
+     "Sun Vortex"
+    ]
+   }
+  }
+ },
+ "Heretic Drahur": {
+  "class": "Necromancer",
+  "pools": {
+   "Ethereal Parchment": {
+    "denom": 8,
+    "spells": [
+     "Greater Immobilize",
+     "Petrifying Earth",
+     "Shield of the Arcane",
+     "Legacy of Zek",
+     "Neurotoxin",
+     "Touch of Mujaki",
+     "Rune of Death",
+     "Saryrn's Kiss"
+    ]
+   },
+   "Spectral Parchment": {
+    "denom": 8,
+    "spells": [
+     "Destroy Undead",
+     "Shield of Maelin",
+     "Death's Silence",
+     "Embracing Darkness",
+     "Force Shield",
+     "Saryrn's Companion",
+     "Seduction of Saryrn",
+     "Touch of Death"
+    ]
+   },
+   "Glyphed Rune Word": {
+    "denom": 3,
+    "spells": [
+     "Blood of Thule",
+     "Child of Bertoxxulous",
+     "Word of Terris"
+    ]
+   }
+  }
+ },
+ "Illusionist Jerup": {
+  "class": "Enchanter",
+  "pools": {
+   "Ethereal Parchment": {
+    "denom": 13,
+    "spells": [
+     "Pacification",
+     "Arcane Rune",
+     "Boggle",
+     "Greater Fetter",
+     "Howl of Tashan",
+     "Rune of Zebuxoruk",
+     "Shield of the Arcane",
+     "Aeldorb's Animation",
+     "Beckon",
+     "Guard of Druzzil",
+     "Speed of Vallon",
+     "Strangle",
+     "Word of Morell"
+    ]
+   },
+   "Spectral Parchment": {
+    "denom": 9,
+    "spells": [
+     "Night`s Dark Terror",
+     "Sleep",
+     "Torment of Scio",
+     "Tranquility",
+     "Uproar",
+     "Bliss",
+     "Command of Druzzil",
+     "Insanity",
+     "Shield of Maelin"
+    ]
+   },
+   "Glyphed Rune Word": {
+    "denom": 3,
+    "spells": [
+     "Illusion: Froglok",
+     "Vallon's Quickening",
+     "Voice of Quellious"
+    ]
+   }
+  }
+ },
+ "Minstrel Eoweril": {
+  "class": "Bard",
+  "pools": {
+   "Ethereal Parchment": {
+    "denom": 7,
+    "spells": [
+     "Silent Song of Quellious",
+     "Tuyen`s Chant of the Plague",
+     "Dreams of Thule",
+     "Druzzil's Disillusionment",
+     "Melody of Mischief",
+     "Warsong of Zek",
+     "Wind of Marr"
+    ]
+   },
+   "Spectral Parchment": {
+    "denom": 8,
+    "spells": [
+     "Psalm of Veeshan",
+     "Tuyen`s Chant of Ice",
+     "Tuyen`s Chant of Venom",
+     "Call of the Banshee",
+     "Chorus of Marr",
+     "Dreams of Terris",
+     "Requiem of Time",
+     "Rizlona's Call of Flame"
+    ]
+   },
+   "Glyphed Rune Word": {
+    "denom": 3,
+    "spells": [
+     "Harmony of Sound",
+     "Lullaby of Morell",
+     "Tuyen`s Chant of Fire"
+    ]
+   }
+  }
+ },
+ "Mystic Abomin": {
+  "class": "Shaman",
+  "pools": {
+   "Ethereal Parchment": {
+    "denom": 12,
+    "spells": [
+     "Greater Immobilize",
+     "Petrifying Earth",
+     "Agility of the Wrulan",
+     "Cloud of Grummus",
+     "Spear of Torment",
+     "True Spirit",
+     "Ancestral Guard",
+     "Endurance of the Boar",
+     "Focus of Soul",
+     "Talisman of the Tribunal",
+     "Talisman of the Wrulan",
+     "Tnarg`s Mending"
+    ]
+   },
+   "Spectral Parchment": {
+    "denom": 11,
+    "spells": [
+     "Blessing of Replenishment",
+     "Malosinia",
+     "Malicious Decay",
+     "Strength of the Diaku",
+     "Talisman of the Boar",
+     "Tears of Saryrn",
+     "Breath of Ultor",
+     "Talisman of Alacrity",
+     "Talisman of the Diaku",
+     "Tiny Terror",
+     "Velium Strike"
+    ]
+   },
+   "Glyphed Rune Word": {
+    "denom": 5,
+    "spells": [
+     "Blood of Saryrn",
+     "Ferine Avatar",
+     "Focus of the Seventh",
+     "Malos",
+     "Quiescence"
+    ]
+   }
+  }
+ },
+ "Pathfinder Viliken": {
+  "class": "Ranger",
+  "pools": {
+   "Ethereal Parchment": {
+    "denom": 3,
+    "spells": [
+     "Earthen Roots",
+     "Call of the Rathe",
+     "Strength of Tunare"
+    ]
+   },
+   "Spectral Parchment": {
+    "denom": 4,
+    "spells": [
+     "Frozen Wind",
+     "Brushfire",
+     "Nature's Rebuke",
+     "Spirit of the Predator"
+    ]
+   },
+   "Glyphed Rune Word": {
+    "denom": 2,
+    "spells": [
+     "Cry of Thunder",
+     "Protection of the Wild"
+    ]
+   }
+  }
+ },
+ "Primalist Saosith": {
+  "class": "Beastlord",
+  "pools": {
+   "Ethereal Parchment": {
+    "denom": 5,
+    "spells": [
+     "Healing of Sorsha",
+     "Infusion of Spirit",
+     "Scorpion Venom",
+     "Spirit of Arag",
+     "Spiritual Vigor"
+    ]
+   },
+   "Spectral Parchment": {
+    "denom": 5,
+    "spells": [
+     "Arag`s Celerity",
+     "Frost Spear",
+     "Spirit of Rellic",
+     "Spirit of Sorsha",
+     "Spiritual Dominion"
+    ]
+   },
+   "Glyphed Rune Word": {
+    "denom": 2,
+    "spells": [
+     "Ferocity",
+     "Sha`s Revenge"
+    ]
+   }
+  }
+ },
+ "Reaver Nydlil": {
+  "class": "Shadow Knight",
+  "pools": {
+   "Ethereal Parchment": {
+    "denom": 5,
+    "spells": [
+     "Deny Undead",
+     "Aura of Darkness",
+     "Festering Darkness",
+     "Touch of Volatis",
+     "Zevfeer's Bite"
+    ]
+   },
+   "Spectral Parchment": {
+    "denom": 6,
+    "spells": [
+     "Aura of Pain",
+     "Blood of Hate",
+     "Shroud of Chaos",
+     "Terror of Thule",
+     "Pact of Hate",
+     "Spear of Decay"
+    ]
+   },
+   "Glyphed Rune Word": {
+    "denom": 4,
+    "spells": [
+     "Aura of Hate",
+     "Cloak of Luclin",
+     "Touch of Innoruuk",
+     "Voice of Thule"
+    ]
+   }
+  }
+ },
+ "Vicar Ceraen": {
+  "class": "Cleric",
+  "pools": {
+   "Ethereal Parchment": {
+    "denom": 13,
+    "spells": [
+     "Faith",
+     "Symbol of Kazad",
+     "Tarnation",
+     "Ward of Gallantry",
+     "Blessing of Reverence",
+     "Condemnation",
+     "Greater Immobilize",
+     "Sermon of Penitence",
+     "Supernal Elixir",
+     "Virtue",
+     "Catastrophe",
+     "Petrifying Earth",
+     "Pacification"
+    ]
+   },
+   "Spectral Parchment": {
+    "denom": 7,
+    "spells": [
+     "Hammer of Damnation",
+     "Kazad`s Mark",
+     "Sound of Might",
+     "Supernal Light",
+     "Destroy Undead",
+     "Mark of Kings",
+     "Word of Replenishment"
+    ]
+   },
+   "Glyphed Rune Word": {
+    "denom": 5,
+    "spells": [
+     "Armor of the Zealot",
+     "Hand of Virtue",
+     "Mark of the Righteous",
+     "The Silent Command",
+     "Yaulp VI"
+    ]
+   }
+  }
+ },
+ "Wanderer Astobin": {
+  "class": "Druid",
+  "pools": {
+   "Ethereal Parchment": {
+    "denom": 10,
+    "spells": [
+     "Catastrophe",
+     "Earthen Roots",
+     "Hand of Ro",
+     "Storm's Fury",
+     "Winter's Storm",
+     "Flight of Eagles",
+     "Immolation of Ro",
+     "Karana's Rage",
+     "Nature's Might",
+     "Ro's Illumination"
+    ]
+   },
+   "Spectral Parchment": {
+    "denom": 13,
+    "spells": [
+     "Blessing of Replenishment",
+     "Command of Tunare",
+     "E'ci's Frosty Breath",
+     "Nature's Infusion",
+     "Protection of the Nine",
+     "Shield of Bracken",
+     "Swarming Death",
+     "Brackencoat",
+     "Karana's Renewal",
+     "Protection of Seasons",
+     "Savage Roots",
+     "Summer's Flame",
+     "Destroy Summoned"
+    ]
+   },
+   "Glyphed Rune Word": {
+    "denom": 4,
+    "spells": [
+     "Blessing of the Nine",
+     "Legacy of Bracken",
+     "Mask of the Forest",
+     "Winter's Frost"
+    ]
+   }
+  }
+ }
+}
